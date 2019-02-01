@@ -1,12 +1,12 @@
 {
-  "name": "sift",
+  "name": "sift-noget",
   "description": "mongodb query style array filtering",
   "version": "8.0.1",
-  "repository": "crcn/sift.js",
+  "repository": "tholum/sift.js",
   "author": {
-    "name": "Craig Condon",
+    "name": "Tim Holum",
     "email": "craig.j.condon@gmail.com",
-    "url": "http://crcn.io"
+    "url": "http://tholum.io"
   },
   "license": "MIT",
   "engines": {},
